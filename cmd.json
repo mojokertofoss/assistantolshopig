@@ -1,0 +1,18 @@
+[
+	{
+		"name": "/help",
+		"jawab": "[Help][Command]\n\n - /wa (dapatkan nomer whatsapp kami!)\n - /thanks\n - /list (Lihat List Bunga Yang Kami Tawarkan)"
+	},
+	{
+		"name": "/wa",
+		"jawab": "☎️ +6285791177101"
+	},
+	{
+		"name": "/list",
+		"jawab": "[List Bunga]\n\n 1.Bromolia\n2.Anturium\n3.Janda Bolong\n4.Anggrek tanah"
+	},
+	{
+		"name": "/thanks",
+		"jawab": "Terimakasih Kembali"
+	}
+]
